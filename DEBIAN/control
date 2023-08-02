@@ -1,0 +1,10 @@
+Package: {_pkgname}
+Version: {_pkgversion}
+Architecture: {_pkgarch}
+Multi-Arch: same
+Priority: optional
+Section: universe/libs
+Maintainer: LIU Hao <lh_mouse@126.com>
+Provides: libsparsehash-dev
+Description: Experimental C++11 version of sparsehash
+Homepage: https://github.com/lhmouse/sparsehash-c11
